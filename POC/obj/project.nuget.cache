@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eskJe5CwuhY6NRpcTl5of+3mJUq2JHBF57ZNJdCqYPf/JoiQKQM5UNdolKIrCiLNaDwhtbpZ8LU194VSlZ6Gmw==",
+  "success": true,
+  "projectFilePath": "D:\\POC\\POC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usha.kakde\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\usha.kakde\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\usha.kakde\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
