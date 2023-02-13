@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 
 var config = new ConfigurationBuilder(). 
-    AddUserSecrets<Program>();
+    AddUserSecrets<Program>().Build();
 
 string apiKey = config["apikey"];
 
